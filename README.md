@@ -8,5 +8,5 @@
 * 신뢰할 수 있는 맛집 정보를 제공
 * 신뢰할 수 있는 정보가 지속적으로 유지될 수 있도록 유지
 
-## 토큰이코노미 그림
+## 토큰이코노미
 ![new mockup 1](https://user-images.githubusercontent.com/9694344/47356844-2a08ed00-d700-11e8-9f40-58f737a799b5.png)
